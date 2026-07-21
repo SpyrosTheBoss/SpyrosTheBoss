@@ -100,10 +100,6 @@ Fresh ops: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SpyrosTheBoss&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="trophies" width="98%" />
-
-<br/><br/>
-
 <sub><code>$ ./trace --contributions --render snake</code></sub>
 
 <img src="https://raw.githubusercontent.com/SpyrosTheBoss/SpyrosTheBoss/output/github-contribution-grid-snake.svg" alt="snake eating my contribution graph" width="98%" />

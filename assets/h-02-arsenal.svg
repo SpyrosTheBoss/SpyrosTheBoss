@@ -13,8 +13,6 @@
 <style>
   .mono{font-family:ui-monospace,'Cascadia Code',Menlo,Consolas,monospace}
   .sans{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
-  .in{animation:in .6s cubic-bezier(.2,.8,.2,1) both}
-  @keyframes in{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:translateX(0)}}
   .dot{animation:dt 3.4s ease-in-out infinite alternate}
   @keyframes dt{from{transform:translateX(0)}to{transform:translateX(460px)}}
 </style>

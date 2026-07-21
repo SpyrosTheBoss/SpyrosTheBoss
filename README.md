@@ -1,22 +1,18 @@
 <!--
-  ███ NEON DOSSIER v2 — bespoke animated SVG design system (see assets/) ███
+  NEON DOSSIER v3 — bespoke animated SVG design system (see assets/)
   Palette: #F72585 magenta · #7B2FF7/#A957FF purple · #00E5FF cyan · #FF2E63 red · #F9F871 acid · #0D0221 void
-  Remaining fill-ins (optional): UPLINK social hrefs · optional Jane Doe art at assets/jane-doe.png
+  TODO: fill in real social hrefs in section 05 before uncommenting them.
 -->
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Spyros Stavrakis — Data Science · Machine Learning · New Eridu" />
+<img src="assets/hero.svg" width="100%" alt="Spyros Stavrakis — Data Science · Machine Learning" />
 
-<img src="assets/tagline.svg" width="100%" alt="PROXY // DATA & ML ENGINEER — SIGNAL > NOISE" />
+<img src="assets/tagline.svg" width="100%" alt="Data & ML engineer — signal > noise" />
 
-<img src="https://komarev.com/ghpvc/?username=SpyrosTheBoss&label=NEW%20ERIDU%20VISITORS&color=F72585&style=for-the-badge" alt="profile views" />
-&nbsp;
 <a href="https://github.com/SpyrosTheBoss?tab=followers"><img src="https://img.shields.io/github/followers/SpyrosTheBoss?style=for-the-badge&logo=github&labelColor=0D0221&color=F72585" alt="followers" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING-00E5FF?style=for-the-badge&labelColor=0D0221" alt="focus" />
-&nbsp;
-<img src="https://img.shields.io/badge/MAIN-JANE%20DOE-FF2E63?style=for-the-badge&labelColor=0D0221" alt="main" />
+<img src="https://img.shields.io/badge/FOCUS-ON--DEVICE%20CV-00E5FF?style=for-the-badge&labelColor=0D0221" alt="focus: on-device computer vision" />
 
 </div>
 
@@ -24,18 +20,18 @@
 
 <img src="assets/h-01-identity.svg" width="100%" alt="01 // IDENTITY" />
 
-<img src="assets/terminal.svg" width="100%" alt="Agent dossier: Spyros Stavrakis — Data Science / Machine Learning, New Eridu Research Collective" />
+<img src="assets/terminal.svg" width="100%" alt="Spyros Stavrakis — Data Science / Machine Learning. Stack: python, pytorch, opencv, onnx, sql." />
 
 <div align="center">
-<sub>📡 <b>FIELD NOTES</b> — deep in on-device CV right now: segmentation · inpainting · ONNX runtime.&nbsp;
-Fresh ops: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
+<sub>Currently deep in on-device computer vision — segmentation, inpainting, and ONNX runtime work.<br/>
+Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 <a href="https://github.com/SpyrosTheBoss/pulse-haptics">pulse-haptics</a> ·
 <a href="https://github.com/SpyrosTheBoss/WatermarkRemover-AI-Revamped">WatermarkRemover-AI</a></sub>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-02-arsenal.svg" width="100%" alt="02 // ARSENAL" />
+<img src="assets/h-02-arsenal.svg" width="100%" alt="02 // TOOLKIT" />
 
 <div align="center">
 
@@ -62,10 +58,8 @@ Fresh ops: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 </div>
 
-<img src="assets/agent-stats.svg" width="100%" alt="Skill levels: Python 94 S · PyTorch 90 S · Computer Vision 88 A · SQL 86 A · ONNX Edge AI 84 A · MLOps 76 B" />
-
 <details>
-<summary>&nbsp;🧰 <b>EXPAND FULL LOADOUT</b> — secondary weapons cache</summary>
+<summary>&nbsp;<b>Also in the toolbox</b></summary>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=F9F871" alt="scikit-learn" />
@@ -79,9 +73,7 @@ Fresh ops: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-03-telemetry.svg" width="100%" alt="03 // LIVE TELEMETRY" />
-
-<img src="assets/training.svg" width="100%" alt="Live training telemetry — epoch 87/100, loss falling, GPU at 93%" />
+<img src="assets/h-03-telemetry.svg" width="100%" alt="03 // STATS" />
 
 <div align="center">
 
@@ -90,15 +82,9 @@ Fresh ops: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=SpyrosTheBoss&hide_border=true&background=0F0526&stroke=F72585&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7B2FF7" alt="contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpyrosTheBoss&bg_color=0F0526&color=00E5FF&line=F72585&point=F9F871&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL%20//%20LAST%20365%20DAYS" alt="activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpyrosTheBoss&bg_color=0F0526&color=00E5FF&line=F72585&point=F9F871&area=true&hide_border=true&custom_title=CONTRIBUTIONS%20//%20LAST%20365%20DAYS" alt="activity graph" width="98%" />
 
 <br/>
-
-<sub><code>$ ./trace --contributions --render snake</code></sub>
 
 <img src="https://raw.githubusercontent.com/SpyrosTheBoss/SpyrosTheBoss/output/github-contribution-grid-snake.svg" alt="snake eating my contribution graph" width="98%" />
 
@@ -106,53 +92,35 @@ Fresh ops: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-04-hollow.svg" width="100%" alt="04 // HOLLOW ZERO" />
+<img src="assets/h-04-hollow.svg" width="100%" alt="04 // OFF DUTY" />
 
-<img src="assets/divider-hazard.svg" width="100%" alt="" />
-<br/><br/>
+<img align="right" width="200" src="assets/tv-buddy.svg" alt="PX-07, a floating TV-headed robot buddy" />
 
-<img align="right" width="230" src="assets/tv-buddy.svg" alt="PX-07, a floating TV-headed robot buddy" />
+When the models finish training, I'm usually in New Eridu. **Zenless Zone Zero** is the off-duty
+protocol — most of this profile's art direction is stolen from it, and PX-07 keeps me company
+between epochs.
 
-**When the models finish training, the Proxy logs into New Eridu.**
-
-Running commissions, farming Dennies, and clearing Hollows — **Zenless Zone Zero** is the off-duty protocol. PX-07 here keeps me company between epochs.
-
-<img src="https://img.shields.io/badge/FACTION-C.I.S.R.T.-F72585?style=for-the-badge&labelColor=0D0221" alt="faction" />
 <img src="https://img.shields.io/badge/MAIN-JANE%20DOE-FF2E63?style=for-the-badge&labelColor=0D0221" alt="main: Jane Doe" />
-<img src="https://img.shields.io/badge/STYLE-ANOMALY-A957FF?style=for-the-badge&labelColor=0D0221" alt="style" />
-<img src="https://img.shields.io/badge/RANK-S-00E5FF?style=for-the-badge&labelColor=0D0221" alt="rank" />
-
-> 「 Every Hollow hides a signal. 」 — *proxy field notes*
-
-<!--
-  OPTIONAL — your own Jane Doe art/screenshot:
-  1) save an image you have rights to at  assets/jane-doe.png
-  2) uncomment:  <img src="assets/jane-doe.png" width="300" alt="Jane Doe" />
--->
+<img src="https://img.shields.io/badge/FACTION-C.I.S.R.T.-F72585?style=for-the-badge&labelColor=0D0221" alt="faction: C.I.S.R.T." />
 
 <br clear="both"/>
 
-<img src="assets/divider-hazard.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-05-uplink.svg" width="100%" alt="05 // UPLINK" />
+<img src="assets/h-05-uplink.svg" width="100%" alt="05 // CONTACT" />
 
 <div align="center">
 
-*Open a channel — the Inter-Knot is always on.*
-
-<!-- swap hrefs + handles for your real ones; email badge is parked here until you want it:
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2E63" alt="email" /></a>
--->
+<!-- Swap in real handles, then uncomment:
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2E63" alt="email" /></a>
 <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0D0221?style=for-the-badge&logo=x&logoColor=EDEDF7" alt="X" /></a>
 <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/DISCORD-0D0221?style=for-the-badge&logo=discord&logoColor=A957FF" alt="Discord" /></a>
-<a href="https://www.hoyolab.com/"><img src="https://img.shields.io/badge/HOYOLAB-F9F871?style=for-the-badge&labelColor=0D0221&color=0D0221" alt="HoYoLAB" /></a>
+-->
+
+<a href="https://github.com/SpyrosTheBoss"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=F72585" alt="GitHub" /></a>
 
 <br/><br/>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<sub><code>EOF // signal terminates here — but the void hums on ▊</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7B2FF7&height=120&section=footer" width="100%" alt="" />
 

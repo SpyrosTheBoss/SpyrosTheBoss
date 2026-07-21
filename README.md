@@ -8,9 +8,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Spyros Stavrakis — Data Science · Machine Learning · New Eridu" />
 
-<a href="https://github.com/SpyrosTheBoss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&height=44&lines=PROXY+%2F%2F+DATA+%26+ML+ENGINEER;SIGNAL+%3E+NOISE;TRAINING+MODELS+IN+THE+VOID;ZENLESS+ZONE+ZERO+ENJOYER" alt="typing intro" />
-</a>
+<img src="assets/tagline.svg" width="100%" alt="PROXY // DATA & ML ENGINEER — SIGNAL > NOISE" />
 
 <img src="https://komarev.com/ghpvc/?username=SpyrosTheBoss&label=NEW%20ERIDU%20VISITORS&color=F72585&style=for-the-badge" alt="profile views" />
 &nbsp;

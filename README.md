@@ -1,14 +1,13 @@
 <!--
   NEON DOSSIER v3 — bespoke animated SVG design system (see assets/)
   Palette: #F72585 magenta · #7B2FF7/#A957FF purple · #00E5FF cyan · #FF2E63 red · #F9F871 acid · #0D0221 void
-  TODO: fill in real social hrefs in section 05 before uncommenting them.
 -->
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Spyros Stavrakis — Data Science · Machine Learning" />
+<img src="assets/hero.svg" width="100%" alt="Spyros Stavrakis — Data Science / Machine Learning, callsign PROXY, New Eridu" />
 
-<img src="assets/tagline.svg" width="100%" alt="Data & ML engineer — signal > noise" />
+<img src="assets/tagline.svg" width="100%" alt="PROXY // Data &amp; ML engineer — signal &gt; noise" />
 
 <a href="https://github.com/SpyrosTheBoss?tab=followers"><img src="https://img.shields.io/github/followers/SpyrosTheBoss?style=for-the-badge&logo=github&labelColor=0D0221&color=F72585" alt="followers" /></a>
 &nbsp;
@@ -16,11 +15,22 @@
 
 </div>
 
+<details>
+<summary>Plain-text summary (in case the SVGs don't render)</summary>
+<br/>
+
+**Spyros Stavrakis** — Data Science / Machine Learning engineer, focused on on-device computer
+vision (segmentation, inpainting, ONNX runtime). Stack: Python, PyTorch, TensorFlow, OpenCV,
+Hugging Face, pandas, NumPy, ONNX, Kotlin, C++, SQL, Docker, FastAPI, AWS, Android.
+GitHub: [SpyrosTheBoss](https://github.com/SpyrosTheBoss).
+
+</details>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-01-identity.svg" width="100%" alt="01 // IDENTITY" />
+<img src="assets/h-01-identity.svg" width="100%" alt="01 // IDENTITY — sector, dossier" />
 
-<img src="assets/terminal.svg" width="100%" alt="Spyros Stavrakis — Data Science / Machine Learning. Stack: python, pytorch, opencv, onnx, sql." />
+<img src="assets/terminal.svg" width="100%" alt="Agent dossier terminal. Codename: Spyros Stavrakis, aka PROXY. Division: Data Science / Machine Learning. Stack: python, pytorch, opencv, onnx, sql. Mission: erasing noise from the world — literally. Faction: New Eridu Research Collective. Motto: Every Hollow hides a signal. Status: online, training models in the void." />
 
 <div align="center">
 <sub>Currently deep in on-device computer vision — segmentation, inpainting, and ONNX runtime work.<br/>
@@ -31,7 +41,7 @@ Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-02-arsenal.svg" width="100%" alt="02 // TOOLKIT" />
+<img src="assets/h-02-arsenal.svg" width="100%" alt="02 // ARSENAL — loadout, weapons-grade" />
 
 <div align="center">
 
@@ -71,14 +81,20 @@ Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 </div>
 </details>
 
+<img src="assets/agent-stats.svg" width="100%" alt="Agent combat stats — skill bars: Python 94 (S), PyTorch 90 (S), Computer Vision 88 (A), SQL / Data Eng 86 (A), ONNX / Edge AI 84 (A), MLOps 76 (B)" />
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-03-telemetry.svg" width="100%" alt="03 // STATS" />
+<img src="assets/h-03-telemetry.svg" width="100%" alt="03 // LIVE TELEMETRY — feed, realtime" />
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpyrosTheBoss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F72585&text_color=00E5FF&icon_color=7B2FF7&bg_color=0F0526" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosTheBoss&layout=compact&langs_count=8&hide_border=true&title_color=F72585&text_color=00E5FF&bg_color=0F0526" alt="top languages" />
+
+<br/><br/>
+
+<img src="assets/training.svg" width="100%" alt="Live training telemetry: epoch 87/100, loss 0.0169 (val 0.0211), GPU 93% at 67°C, ETA 00:41:07" />
 
 <br/><br/>
 
@@ -90,33 +106,26 @@ Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider-hazard.svg" width="100%" alt="" />
 
-<img src="assets/h-04-hollow.svg" width="100%" alt="04 // OFF DUTY" />
+<img src="assets/h-04-hollow.svg" width="100%" alt="04 // HOLLOW ZERO — off-duty, zenless" />
 
 <img align="right" width="200" src="assets/tv-buddy.svg" alt="PX-07, a floating TV-headed robot buddy" />
 
 When the models finish training, I'm usually in New Eridu. **Zenless Zone Zero** is the off-duty
-protocol — most of this profile's art direction is stolen from it, and PX-07 keeps me company
+protocol — most of this profile's art direction is looted from it, and PX-07 keeps me company
 between epochs.
 
-<img src="https://img.shields.io/badge/MAIN-JANE%20DOE-FF2E63?style=for-the-badge&labelColor=0D0221" alt="main: Jane Doe" />
-<img src="https://img.shields.io/badge/FACTION-C.I.S.R.T.-F72585?style=for-the-badge&labelColor=0D0221" alt="faction: C.I.S.R.T." />
+<img src="https://img.shields.io/badge/MAIN-YE%20SHUNGUANG-FF2E63?style=for-the-badge&labelColor=0D0221" alt="main: Ye Shunguang" />
+<img src="https://img.shields.io/badge/FACTION-YUNKUI%20SUMMIT-F72585?style=for-the-badge&labelColor=0D0221" alt="faction: Yunkui Summit" />
 
 <br clear="both"/>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-05-uplink.svg" width="100%" alt="05 // CONTACT" />
+<img src="assets/h-05-uplink.svg" width="100%" alt="05 // UPLINK — channel, open" />
 
 <div align="center">
-
-<!-- Swap in real handles, then uncomment:
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2E63" alt="email" /></a>
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0D0221?style=for-the-badge&logo=x&logoColor=EDEDF7" alt="X" /></a>
-<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/DISCORD-0D0221?style=for-the-badge&logo=discord&logoColor=A957FF" alt="Discord" /></a>
--->
 
 <a href="https://github.com/SpyrosTheBoss"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=F72585" alt="GitHub" /></a>
 

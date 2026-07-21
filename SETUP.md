@@ -23,5 +23,4 @@ This repo renders on [github.com/SpyrosTheBoss](https://github.com/SpyrosTheBoss
 - Widgets (stats/streak/graph/trophies) are external services themed via URL params — bg is `0F0526` to match panels.
 
 ## Still open (optional)
-- UPLINK: real LinkedIn / X / Discord hrefs (placeholders now); email badge parked in a comment.
-- `assets/jane-doe.png` art slot in section 04 (commented out until an image exists).
+- UPLINK: only the GitHub badge is live; add LinkedIn / X / Discord / email badges later if wanted.

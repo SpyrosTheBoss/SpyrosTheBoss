@@ -117,8 +117,8 @@
       </g>
     </g>
     <g class="marq">
-      <text x="0" y="207" textLength="1120" class="mono" font-size="11" letter-spacing="2" fill="#F9F871" opacity=".4">⚠ CAUTION // HOLLOW ACTIVITY DETECTED // PROXY CLEARANCE REQUIRED // SIGNAL LOCKED ⚠ CAUTION // HOLLOW ACTIVITY DETECTED //</text>
-      <text x="1120" y="207" textLength="1120" class="mono" font-size="11" letter-spacing="2" fill="#F9F871" opacity=".4">⚠ CAUTION // HOLLOW ACTIVITY DETECTED // PROXY CLEARANCE REQUIRED // SIGNAL LOCKED ⚠ CAUTION // HOLLOW ACTIVITY DETECTED //</text>
+      <text x="0" y="207" textLength="1120" class="mono" font-size="13" letter-spacing="2" fill="#F9F871" opacity=".4">⚠ CAUTION // HOLLOW ACTIVITY DETECTED // PROXY CLEARANCE REQUIRED // SIGNAL LOCKED ⚠ CAUTION // HOLLOW ACTIVITY DETECTED //</text>
+      <text x="1120" y="207" textLength="1120" class="mono" font-size="13" letter-spacing="2" fill="#F9F871" opacity=".4">⚠ CAUTION // HOLLOW ACTIVITY DETECTED // PROXY CLEARANCE REQUIRED // SIGNAL LOCKED ⚠ CAUTION // HOLLOW ACTIVITY DETECTED //</text>
     </g>
   </g>
   <line x1="-60" y1="153" x2="1060" y2="153" stroke="#F72585" stroke-width="1.5" opacity=".55"/>
@@ -136,7 +136,7 @@
 <!-- subtitle -->
 <line x1="66" y1="242" x2="352" y2="242" stroke="#7B2FF7" stroke-width="1" opacity=".55"/>
 <line x1="648" y1="242" x2="934" y2="242" stroke="#7B2FF7" stroke-width="1" opacity=".55"/>
-<text x="500" y="247" text-anchor="middle" textLength="560" lengthAdjust="spacingAndGlyphs" class="mono" font-size="14" letter-spacing="4" fill="#9D9DBD">DATA SCIENCE ▸ MACHINE LEARNING ▸ NEW ERIDU</text>
+<text x="500" y="247" text-anchor="middle" textLength="560" lengthAdjust="spacingAndGlyphs" class="mono" font-size="16" letter-spacing="4" fill="#9D9DBD">DATA SCIENCE ▸ MACHINE LEARNING ▸ NEW ERIDU</text>
 
 <!-- HUD corners -->
 <g stroke="#00E5FF" stroke-width="2" fill="none" opacity=".65">
@@ -148,10 +148,10 @@
 
 <!-- status chips -->
 <circle cx="52" cy="24" r="3.5" fill="#F9F871" class="pulse"/>
-<text x="63" y="28" class="mono" font-size="12" letter-spacing="2" fill="#F9F871">SYS.ONLINE</text>
+<text x="63" y="28" class="mono" font-size="13" letter-spacing="2" fill="#F9F871">SYS.ONLINE</text>
 <circle cx="790" cy="24" r="4" fill="#FF2E63" class="rec"/>
-<text x="801" y="28" class="mono" font-size="12" letter-spacing="1" fill="#EDEDF7">REC</text>
-<text x="948" y="28" text-anchor="end" class="mono" font-size="11" letter-spacing="1" fill="#6E6E92">LOC: NEW ERIDU</text>
+<text x="801" y="28" class="mono" font-size="13" letter-spacing="1" fill="#EDEDF7">REC</text>
+<text x="948" y="28" text-anchor="end" class="mono" font-size="13" letter-spacing="1" fill="#9494B8">LOC: NEW ERIDU</text>
 
 <!-- scanline + vignette -->
 <rect x="0" y="0" width="1000" height="56" fill="url(#scan)" class="scanline"/>

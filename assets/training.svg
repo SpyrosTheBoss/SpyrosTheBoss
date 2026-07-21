@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="252" viewBox="0 0 1000 252" role="img">
+<title>Live training telemetry</title>
+<defs>
+  <linearGradient id="fill" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00E5FF"/>
+    <stop offset="1" stop-color="#F72585"/>
+  </linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#00E5FF" stop-opacity=".05"/>
+    <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="panel2"><rect x="6" y="6" width="988" height="240" rx="12"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:ui-monospace,'Cascadia Code',Menlo,Consolas,monospace;font-size:14px}
+  .bar{transform-box:fill-box;transform-origin:left center}
+  .ep{animation:ep 2.8s ease-in-out infinite alternate}
+  @keyframes ep{from{transform:scaleX(.855)}to{transform:scaleX(.885)}}
+  .gp{animation:gp 1.3s ease-in-out infinite alternate}
+  @keyframes gp{from{transform:scaleX(.88)}to{transform:scaleX(.97)}}
+  .n1{animation:cy 8s steps(1,end) infinite}
+  .n2{animation:cy 8s steps(1,end) infinite;animation-delay:-6s}
+  .n3{animation:cy 8s steps(1,end) infinite;animation-delay:-4s}
+  .n4{animation:cy 8s steps(1,end) infinite;animation-delay:-2s}
+  @keyframes cy{0%,24%{opacity:1}25%,100%{opacity:0}}
+  .pulse{animation:pu 1.4s ease-in-out infinite}
+  @keyframes pu{0%,100%{opacity:1}50%{opacity:.2}}
+  .cur{animation:bl 1s steps(2,start) infinite}
+  @keyframes bl{50%{opacity:0}}
+  .scanline{animation:sl 5.5s linear infinite}
+  @keyframes sl{from{transform:translateY(30px)}to{transform:translateY(260px)}}
+</style>
+
+<rect x="6" y="6" width="988" height="240" rx="12" fill="#0F0526" stroke="#7B2FF7" stroke-opacity=".45" stroke-width="1.5"/>
+<rect x="6" y="6" width="988" height="34" rx="12" fill="#150838"/>
+<rect x="6" y="24" width="988" height="16" fill="#150838"/>
+<circle cx="30" cy="23" r="5.5" fill="#FF2E63"/>
+<circle cx="50" cy="23" r="5.5" fill="#F9F871"/>
+<circle cx="70" cy="23" r="5.5" fill="#00E5FF"/>
+<text x="500" y="28" text-anchor="middle" class="mono" font-size="12" fill="#8B8BA7">live-telemetry :: train.py — attached</text>
+
+<text x="36" y="68" class="mono" fill="#F72585">$</text>
+<text x="56" y="68" class="mono" fill="#EDEDF7">python train.py --config new_eridu.yaml --amp</text>
+
+<text x="36" y="96" class="mono" fill="#00E5FF">[cuda]</text>
+<text x="110" y="96" class="mono" fill="#8B8BA7">device: RTX 4090 · vram 24GB · precision bf16 · seed 42</text>
+
+<text x="36" y="126" class="mono" fill="#E8E8F2">epoch 087/100</text>
+<rect x="250" y="114" width="420" height="12" rx="6" fill="#1A0B3D" stroke="#7B2FF7" stroke-opacity=".3"/>
+<rect x="250" y="114" width="420" height="12" rx="6" fill="url(#fill)" class="bar ep"/>
+<text x="690" y="126" class="mono" font-weight="bold" fill="#F9F871">87%</text>
+
+<text x="36" y="154" class="mono" fill="#8B8BA7">loss</text>
+<g font-weight="bold">
+  <text x="84" y="154" class="mono n1" fill="#F72585">0.0195</text>
+  <text x="84" y="154" class="mono n2" fill="#F72585">0.0184</text>
+  <text x="84" y="154" class="mono n3" fill="#F72585">0.0176</text>
+  <text x="84" y="154" class="mono n4" fill="#F72585">0.0169</text>
+</g>
+<text x="152" y="154" class="mono" fill="#8B8BA7">→ val</text>
+<text x="212" y="154" class="mono" fill="#E8E8F2">0.0211</text>
+<text x="276" y="154" class="mono pulse" fill="#F9F871">▼</text>
+<text x="320" y="154" class="mono" fill="#8B8BA7">lr 3.2e-4</text>
+<text x="440" y="154" class="mono" fill="#8B8BA7">grad 0.87</text>
+<text x="560" y="154" class="mono" fill="#F9F871">amp ✓</text>
+
+<text x="36" y="182" class="mono" fill="#8B8BA7">gpu</text>
+<rect x="84" y="170" width="200" height="12" rx="6" fill="#1A0B3D" stroke="#7B2FF7" stroke-opacity=".3"/>
+<rect x="84" y="170" width="200" height="12" rx="6" fill="url(#fill)" class="bar gp"/>
+<text x="296" y="182" class="mono" font-weight="bold" fill="#00E5FF">93%</text>
+<text x="360" y="182" class="mono" fill="#8B8BA7">temp 67°C</text>
+<text x="480" y="182" class="mono" fill="#8B8BA7">fan 61%</text>
+<text x="586" y="182" class="mono" fill="#F9F871">⚡ 412W</text>
+<text x="690" y="182" class="mono" fill="#8B8BA7">mem 21.4/24G</text>
+
+<text x="36" y="212" class="mono" fill="#EDEDF7">ETA 00:41:07</text>
+<text x="180" y="212" class="mono" fill="#8B8BA7">· ckpt 12 saved</text>
+<text x="356" y="212" class="mono pulse" fill="#FF2E63">· caffeine: CRITICAL</text>
+<text x="560" y="212" class="mono pulse" fill="#F9F871" style="animation-delay:-.7s">⚠</text>
+<rect x="588" y="198" width="10" height="16" fill="#F72585" class="cur"/>
+
+<g clip-path="url(#panel2)">
+  <rect x="6" y="0" width="988" height="40" fill="url(#scan)" class="scanline"/>
+</g>
+</svg>

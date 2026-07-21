@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="26" viewBox="0 0 1000 26" role="img">
+<title>section divider</title>
+<defs>
+  <filter id="g" x="-120%" y="-120%" width="340%" height="340%">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  .n{animation:np 2.4s ease-in-out infinite}
+  @keyframes np{0%,100%{opacity:.9}50%{opacity:.3}}
+  .p1{animation:mv 5.2s linear infinite}
+  .p2{animation:mv 6.8s linear infinite;animation-delay:-2.6s}
+  .p3{animation:mv 7.9s linear infinite;animation-delay:-5.2s}
+  @keyframes mv{from{transform:translateX(0)}to{transform:translateX(948px)}}
+</style>
+<line x1="26" y1="13" x2="974" y2="13" stroke="#2A1458" stroke-width="2"/>
+<rect x="10" y="9" width="8" height="8" transform="rotate(45 14 13)" fill="none" stroke="#00E5FF" stroke-width="1.5" class="n"/>
+<rect x="982" y="9" width="8" height="8" transform="rotate(45 986 13)" fill="none" stroke="#F72585" stroke-width="1.5" class="n" style="animation-delay:-1.2s"/>
+<circle cx="26" cy="13" r="2.6" fill="#00E5FF" filter="url(#g)" class="p1"/>
+<circle cx="26" cy="13" r="2.2" fill="#F72585" filter="url(#g)" class="p2"/>
+<circle cx="26" cy="13" r="1.8" fill="#F9F871" filter="url(#g)" class="p3"/>
+</svg>

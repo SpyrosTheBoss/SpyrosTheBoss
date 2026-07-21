@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="432" viewBox="0 0 1000 432" role="img">
+<title>Agent dossier terminal — Spyros Stavrakis</title>
+<defs>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#00E5FF" stop-opacity=".05"/>
+    <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="panel"><rect x="6" y="6" width="988" height="420" rx="12"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:ui-monospace,'Cascadia Code',Menlo,Consolas,monospace;font-size:15px}
+  .l{opacity:0;animation:fu .5s ease-out forwards}
+  @keyframes fu{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+  .type{transform-box:fill-box;transform-origin:right center;animation:tp .9s steps(26,end) .35s forwards}
+  @keyframes tp{from{transform:scaleX(1)}to{transform:scaleX(0)}}
+  .cur{animation:bl 1s steps(2,start) infinite}
+  @keyframes bl{50%{opacity:0}}
+  .dot{animation:pu 1.6s ease-in-out infinite}
+  @keyframes pu{0%,100%{opacity:1}50%{opacity:.25}}
+  .scanline{animation:sl 6s linear infinite}
+  @keyframes sl{from{transform:translateY(30px)}to{transform:translateY(440px)}}
+</style>
+
+<rect x="6" y="6" width="988" height="420" rx="12" fill="#0F0526" stroke="#7B2FF7" stroke-opacity=".45" stroke-width="1.5"/>
+<rect x="6" y="6" width="988" height="38" rx="12" fill="#150838"/>
+<rect x="6" y="28" width="988" height="16" fill="#150838"/>
+<circle cx="32" cy="25" r="6" fill="#FF2E63"/>
+<circle cx="54" cy="25" r="6" fill="#F9F871"/>
+<circle cx="76" cy="25" r="6" fill="#00E5FF"/>
+<text x="500" y="30" text-anchor="middle" class="mono" font-size="13" fill="#8B8BA7">proxy@new-eridu:~/dossier — bash — 88×24</text>
+<text transform="rotate(-90 966 236)" x="966" y="236" text-anchor="middle" class="mono" font-size="20" letter-spacing="8" fill="#00E5FF" opacity=".06">C.I.S.R.T. // CLASSIFIED</text>
+
+<g class="l" style="animation-delay:.1s">
+  <text x="36" y="84" class="mono" fill="#F72585">$</text>
+  <text x="56" y="84" class="mono" fill="#EDEDF7">./identify --agent spyros --clearance S</text>
+  <rect x="52" y="68" width="392" height="22" fill="#0F0526" class="type"/>
+</g>
+<g class="l" style="animation-delay:1.35s">
+  <text x="36" y="112" class="mono" fill="#00E5FF">[link]</text>
+  <text x="104" y="112" class="mono" fill="#8B8BA7">handshake ..........</text>
+  <text x="300" y="112" class="mono" fill="#F9F871">OK (12ms)</text>
+</g>
+
+<g class="l" style="animation-delay:1.6s"><rect x="46" y="146" width="2.5" height="186" fill="#F72585" opacity=".6"/></g>
+
+<g class="l" style="animation-delay:1.7s">
+  <text x="64" y="162" class="mono" fill="#00E5FF">CODENAME</text>
+  <text x="214" y="162" class="mono" fill="#E8E8F2">Spyros Stavrakis · aka "PROXY"</text>
+</g>
+<g class="l" style="animation-delay:1.9s">
+  <text x="64" y="188" class="mono" fill="#00E5FF">DIVISION</text>
+  <text x="214" y="188" class="mono" fill="#E8E8F2">Data Science / Machine Learning</text>
+</g>
+<g class="l" style="animation-delay:2.1s">
+  <text x="64" y="214" class="mono" fill="#00E5FF">STACK</text>
+  <text x="214" y="214" class="mono" fill="#E8E8F2">python · pytorch · opencv · onnx · sql</text>
+</g>
+<g class="l" style="animation-delay:2.3s">
+  <text x="64" y="240" class="mono" fill="#00E5FF">MISSION</text>
+  <text x="214" y="240" class="mono" fill="#E8E8F2">erasing noise from the world — literally</text>
+</g>
+<g class="l" style="animation-delay:2.5s">
+  <text x="64" y="266" class="mono" fill="#00E5FF">FACTION</text>
+  <text x="214" y="266" class="mono" fill="#E8E8F2">New Eridu Research Collective</text>
+</g>
+<g class="l" style="animation-delay:2.7s">
+  <text x="64" y="292" class="mono" fill="#00E5FF">DRIVE</text>
+  <text x="214" y="292" class="mono" fill="#E8E8F2">[ curiosity ×4 ] [ caffeine ×2 ]</text>
+</g>
+<g class="l" style="animation-delay:2.9s">
+  <text x="64" y="318" class="mono" fill="#00E5FF">MOTTO</text>
+  <text x="214" y="318" class="mono" fill="#F9F871">“Every Hollow hides a signal.”</text>
+</g>
+
+<g class="l" style="animation-delay:3.3s">
+  <text x="36" y="360" class="mono" fill="#F72585">$</text>
+  <text x="56" y="360" class="mono" fill="#EDEDF7">status --live</text>
+</g>
+<g class="l" style="animation-delay:3.7s">
+  <circle cx="42" cy="382" r="4.5" fill="#F9F871" class="dot"/>
+  <text x="56" y="387" class="mono" fill="#00E5FF">ONLINE</text>
+  <text x="130" y="387" class="mono" fill="#8B8BA7">— training models in the void</text>
+  <rect x="404" y="372" width="10" height="18" fill="#F72585" class="cur"/>
+</g>
+
+<g clip-path="url(#panel)">
+  <rect x="6" y="0" width="988" height="46" fill="url(#scan)" class="scanline"/>
+</g>
+</svg>

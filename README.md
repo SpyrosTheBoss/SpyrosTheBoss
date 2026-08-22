@@ -9,7 +9,7 @@
 
 <img src="assets/tagline.svg" width="100%" alt="PROXY // Data &amp; ML engineer — signal &gt; noise" />
 
-<a href="https://github.com/SpyrosTheBoss?tab=followers"><img src="https://img.shields.io/github/followers/SpyrosTheBoss?style=for-the-badge&logo=github&labelColor=0D0221&color=F72585" alt="followers" /></a>
+<a href="https://github.com/SpyrosTheBoss?tab=followers"><img src="https://img.shields.io/github/followers/SpyrosTheBoss?style=for-the-badge&logo=github&labelColor=0D0221&color=F72585" alt="follow[...]
 &nbsp;
 <img src="https://img.shields.io/badge/FOCUS-ON--DEVICE%20CV-00E5FF?style=for-the-badge&labelColor=0D0221" alt="focus: on-device computer vision" />
 
@@ -19,7 +19,7 @@
 <summary>Plain-text summary (in case the SVGs don't render)</summary>
 <br/>
 
-**Spyros Stavrakis** — Data Science / Machine Learning engineer, focused on on-device computer
+**SpyrosTheBoss** — Data Science / Machine Learning engineer, focused on on-device computer
 vision (segmentation, inpainting, ONNX runtime). Stack: Python, PyTorch, TensorFlow, OpenCV,
 Hugging Face, pandas, NumPy, ONNX, Kotlin, C++, SQL, Docker, FastAPI, AWS, Android.
 GitHub: [SpyrosTheBoss](https://github.com/SpyrosTheBoss).
@@ -30,7 +30,7 @@ GitHub: [SpyrosTheBoss](https://github.com/SpyrosTheBoss).
 
 <img src="assets/h-01-identity.svg" width="100%" alt="01 // IDENTITY — sector, dossier" />
 
-<img src="assets/terminal.svg" width="100%" alt="Agent dossier terminal. Codename: Spyros Stavrakis, aka PROXY. Division: Data Science / Machine Learning. Stack: python, pytorch, opencv, onnx, sql. Mission: erasing noise from the world — literally. Faction: New Eridu Research Collective. Motto: Every Hollow hides a signal. Status: online, training models in the void." />
+<img src="assets/terminal.svg" width="100%" alt="Agent dossier terminal. Codename: SpyrosTheBoss, aka PROXY. Division: Data Science / Machine Learning. Stack: python, pytorch, opencv, onnx, sql[...]
 
 <div align="center">
 <sub>Currently deep in on-device computer vision — segmentation, inpainting, and ONNX runtime work.<br/>
@@ -81,7 +81,7 @@ Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 </div>
 </details>
 
-<img src="assets/agent-stats.svg" width="100%" alt="Agent combat stats — skill bars: Python 94 (S), PyTorch 90 (S), Computer Vision 88 (A), SQL / Data Eng 86 (A), ONNX / Edge AI 84 (A), MLOps 76 (B)" />
+<img src="assets/agent-stats.svg" width="100%" alt="Agent combat stats — skill bars: Python 94 (S), PyTorch 90 (S), Computer Vision 88 (A), SQL / Data Eng 86 (A), ONNX / Edge AI 84 (A), MLOps 76[...]
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -89,8 +89,8 @@ Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SpyrosTheBoss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F72585&text_color=00E5FF&icon_color=7B2FF7&bg_color=0F0526" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosTheBoss&layout=compact&langs_count=8&hide_border=true&title_color=F72585&text_color=00E5FF&bg_color=0F0526" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SpyrosTheBoss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F72585&text_color=[...]
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosTheBoss&layout=compact&langs_count=8&hide_border=true&title_color=F72585&text_color=00E5FF&bg_color=0F05[...]
 
 <br/><br/>
 
@@ -98,7 +98,7 @@ Recent: <a href="https://github.com/SpyrosTheBoss/Vanish">Vanish</a> ·
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpyrosTheBoss&bg_color=0F0526&color=00E5FF&line=F72585&point=F9F871&area=true&hide_border=true&custom_title=CONTRIBUTIONS%20//%20LAST%20365%20DAYS" alt="activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpyrosTheBoss&bg_color=0F0526&color=00E5FF&line=F72585&point=F9F871&area=true&hide_border=true&custom_title=CONTRIBUTIONS%[...]
 
 <br/>
 

@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Spyros Stavrakis — Data Science / Machine Learning, callsign PROXY, New Eridu" />
+<img src="assets/hero.svg" width="100%" alt="SpyrosTheBoss — Data Science / Machine Learning, callsign PROXY, New Eridu" />
 
 <img src="assets/tagline.svg" width="100%" alt="PROXY // Data &amp; ML engineer — signal &gt; noise" />
 
